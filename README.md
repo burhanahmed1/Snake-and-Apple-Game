@@ -26,11 +26,11 @@ The Snake and Apple game is a simple yet engaging game where you control a snake
 
 ## Screenshots
 <div align="center">
-  <img src="StartGame.png" alt="Game Start" width="400"/>
+  <img src="sc/StartGame.png" alt="Game Start" width="800"/>
   <p>*Game Start Screen*</p>
-  <img src="GameScreen.png" alt="Game Play" width="400"/>
+  <img src="sc/GameScreen.png" alt="Game Play" width="800"/>
   <p>*Game Play Screen*</p>
-  <img src="EndGame.png" alt="Game Over" width="400"/>
+  <img src="sc/EndGame.png" alt="Game Over" width="800"/>
   <p>*Game Over Screen*</p>
 </div>
 
